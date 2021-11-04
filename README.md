@@ -6,6 +6,6 @@
 
 [3](https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b)
 
-[4](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/)
+[A Practical Introduction to Blockchain with Python](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/)
 
 [5'](https://bitsonblocks.net/2015/09/09/gentle-introduction-blockchain-technology/)
